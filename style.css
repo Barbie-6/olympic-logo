@@ -1,0 +1,9 @@
+body {
+    background-image: url("olympic_bg.jpg");
+}
+#myCanvas {
+    border: black;
+    background-color: white;
+    border-width: 0.5cm;
+    border-style: ridge;
+}
